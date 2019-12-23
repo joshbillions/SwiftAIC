@@ -1,3 +1,3 @@
 struct ArtInstitute {
-    public let api = API()
+//    public let api = API()
 }
